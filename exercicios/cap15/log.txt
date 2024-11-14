@@ -1,0 +1,2 @@
+Registro de transacao nao correspondente para a conta 900
+Registro de transacao nao correspondente para a conta 400
