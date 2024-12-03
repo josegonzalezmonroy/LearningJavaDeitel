@@ -72,7 +72,7 @@ Com cada tema, reforço meus conhecimentos resolvendo os exercícios do livro e 
 ## 📖 Livro Referência  
 - **Título**: Java Como Programar  
 - **Autores**: Paul Deitel, Harvey Deitel  
-- **Edição**: 10ª edição (ou a versão que você está utilizando)  
+- **Edição**: 10ª edição
 
 ---
 
