@@ -23,38 +23,6 @@ Nesta pasta estão as soluções dos exercícios propostos no livro, resolvidos 
 ---
 
 ## 🧑‍💻 O que estou aprendendo  
-- Fundamentos da programação em Java: estrutura de controle, loops e arrays.  
-- Programação orientada a objetos (POO): classes, objetos, herança e polimorfismo.  
-- Manipulação de arquivos e streams.  
-- Uso de coleções e genéricos.  
-- Criação de interfaces gráficas básicas (GUI).  
-
----
-
-## 📖 Livro Referência  
-- **Título**: Java Como Programar  
-- **Autores**: Paul Deitel, Harvey Deitel  
-- **Edição**: 10ª edição (ou a versão que você está utilizando)  
-
----
-
-## 📋 Como Usar  
-1. Clone este repositório:  
-   `bash`  
-   git clone https://github.com/josegonzalezmonroy/LearningJavaDeitel.git
-
-2. Navegue pelas pastas:
-    `exemplos/`: Para consultar exemplos do livro.
-    `exercicios/`: Para ver as soluções dos exercícios.
-
-3. Abra os arquivos .java em seu editor ou IDE favorito e explore o código!
-
-⚠️ Aviso Legal
-Os exemplos presentes na pasta "exemplos" são de autoria dos autores do livro "Java Como Programar" e estão aqui apenas para fins educacionais e de estudo.
-
-As soluções dos exercícios na pasta "exercicios" são de minha autoria, baseadas nos problemas propostos no livro.
-
-## 🧑‍💻 O que estou aprendendo  
 Ao longo deste projeto, estou adquirindo conhecimentos sólidos em várias áreas fundamentais do desenvolvimento em Java, incluindo:  
 
 ### 1. **Fundamentos da Programação em Java**  
@@ -98,3 +66,31 @@ Ao longo deste projeto, estou adquirindo conhecimentos sólidos em várias área
 - **Boa organização de código**: uso de pacotes para modularização e melhor estruturação de projetos.  
 
 Com cada tema, reforço meus conhecimentos resolvendo os exercícios do livro e criando código funcional que reflete o aprendizado prático.  
+
+---
+
+## 📖 Livro Referência  
+- **Título**: Java Como Programar  
+- **Autores**: Paul Deitel, Harvey Deitel  
+- **Edição**: 10ª edição (ou a versão que você está utilizando)  
+
+---
+
+## 📋 Como Usar  
+1. Clone este repositório:  
+   ```bash  
+   git clone https://github.com/josegonzalezmonroy/LearningJavaDeitel.git
+
+2. Navegue pelas pastas:
+    `exemplos/`: Para consultar exemplos do livro.
+    `exercicios/`: Para ver as soluções dos exercícios.
+
+3. Abra os arquivos `.java` em seu editor ou IDE favorito e explore o código!
+
+---
+
+## ⚠️ Aviso Legal
+Os exemplos presentes na pasta "exemplos" são de autoria dos autores do livro "Java Como Programar" e estão aqui apenas para fins educacionais e de estudo.
+
+As soluções dos exercícios na pasta "exercicios" são de minha autoria, baseadas nos problemas propostos no livro.
+
