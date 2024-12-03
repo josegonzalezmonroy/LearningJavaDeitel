@@ -1,3 +1,59 @@
+# 📘 LearningJavaDeitel  
+
+## 🛠️ Sobre o Projeto  
+Este é meu projeto pessoal onde estou aprendendo **Java** de forma autodidata utilizando o livro **"Java Como Programar"** dos autores Deitel & Deitel.  
+
+O objetivo deste repositório é documentar minha jornada de aprendizado, praticar a programação orientada a objetos, e resolver desafios propostos no livro.  
+
+---
+
+## 📂 Estrutura do Repositório  
+O repositório está organizado em duas pastas principais:  
+
+### 1. **Exemplos**  
+Esta pasta contém todos os exemplos de código apresentados no livro.  
+- **Autoria**: Todo o código desta pasta pertence exclusivamente aos autores do livro.  
+- **Objetivo**: Usar os exemplos como referência para estudar e compreender os conceitos teóricos e práticos apresentados.  
+
+### 2. **Exercícios**  
+Nesta pasta estão as soluções dos exercícios propostos no livro, resolvidos por mim.  
+- **Autoria**: Todo o código nesta pasta foi desenvolvido por mim com base nos enunciados do livro.  
+- **Objetivo**: Consolidar o aprendizado por meio da prática e aprimorar minhas habilidades de lógica de programação e Java.  
+
+---
+
+## 🧑‍💻 O que estou aprendendo  
+- Fundamentos da programação em Java: estrutura de controle, loops e arrays.  
+- Programação orientada a objetos (POO): classes, objetos, herança e polimorfismo.  
+- Manipulação de arquivos e streams.  
+- Uso de coleções e genéricos.  
+- Criação de interfaces gráficas básicas (GUI).  
+
+---
+
+## 📖 Livro Referência  
+- **Título**: Java Como Programar  
+- **Autores**: Paul Deitel, Harvey Deitel  
+- **Edição**: 10ª edição (ou a versão que você está utilizando)  
+
+---
+
+## 📋 Como Usar  
+1. Clone este repositório:  
+   `bash`  
+   git clone https://github.com/josegonzalezmonroy/LearningJavaDeitel.git
+
+2. Navegue pelas pastas:
+    `exemplos/`: Para consultar exemplos do livro.
+    `exercicios/`: Para ver as soluções dos exercícios.
+
+3. Abra os arquivos .java em seu editor ou IDE favorito e explore o código!
+
+⚠️ Aviso Legal
+Os exemplos presentes na pasta "exemplos" são de autoria dos autores do livro "Java Como Programar" e estão aqui apenas para fins educacionais e de estudo.
+
+As soluções dos exercícios na pasta "exercicios" são de minha autoria, baseadas nos problemas propostos no livro.
+
 ## 🧑‍💻 O que estou aprendendo  
 Ao longo deste projeto, estou adquirindo conhecimentos sólidos em várias áreas fundamentais do desenvolvimento em Java, incluindo:  
 
